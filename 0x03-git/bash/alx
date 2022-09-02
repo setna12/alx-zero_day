@@ -3,3 +3,4 @@
   echo “alx” 
 !/bin/bash
   echo “alx” 
+-e!/bin/bash\n  echo “alx” 
